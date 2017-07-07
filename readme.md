@@ -5,19 +5,19 @@
 * 62.8k: **[tensorflow](tensorflow/tensorflow):** `Computation using data flow graphs for scalable machine learning`
 * 44.5k: **[moby](moby/moby):** `Moby Project - a collaborative project for the container ecosystem to assemble container-based systems`
 * 31.1k: **[the-art-of-command-line](jlevy/the-art-of-command-line):** `Master the command line, in one page`
-* 28.8k: ---------------- **nvbn/thefuck:** `Magnificent app which corrects your previous console command.`
-* 27.2k: **rg3/youtube-dl:** `Command-line program to download videos from YouTube.com and other video sites`
-* 24.7k: **kubernetes/kubernetes:** `Production-Grade Container Scheduling and Management`
-* 24.2k: **antirez/redis:** `Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values бн`
-* 24.1k: **ansible/ansible:** `Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid`
-* 24.1k: **getlantern/lantern: ** `lantern`
-* 24k: josephmisiti/awesome-machine-learning:** `A curated list of awesome Machine Learning frameworks, libraries and software.`
-* 23.6k: papers-we-love/papers-we-love: ** `papers`
-* 23.6k: elastic/elasticsearch: Open Source, Distributed, RESTful Search Engine
-* 23.6k: neovim/neovim: Vim-fork focused on extensibility and usability.
-* 23.3k: ---------------- nylas/nylas-mail: An extensible desktop mail app built on the modern web. Forks welcome! https://nylas.com/nylas-mail/
-* 22.7k: open-source-society/computer-science: ?? Path to a free self-taught education in Computer Science!
-* 22.4k: ---------------- tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.
+* 28.8k: **[thefuck](nvbn/thefuck):** `Magnificent app which corrects your previous console command.`----------------
+* 27.2k: **[youtube-dl](rg3/youtube-dl):** `Command-line program to download videos from YouTube.com and other video sites`
+* 24.7k: **[kubernetes](kubernetes/kubernetes):** `Production-Grade Container Scheduling and Management`
+* 24.2k: **[redis](antirez/redis):** `Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values бн`
+* 24.1k: **[ansible](ansible/ansible):** `Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid`
+* 24.1k: **[lantern](getlantern/lantern): ** `lantern`
+* 24k: [awesome-machine-learning](josephmisiti/awesome-machine-learning):** `A curated list of awesome Machine Learning frameworks, libraries and software.`
+* 23.6k: [papers-we-love](papers-we-love/papers-we-love): ** `papers`
+* 23.6k: [elasticsearch](elastic/elasticsearch): Open Source, Distributed, RESTful Search Engine
+* 23.6k: [neovim](neovim/neovim): Vim-fork focused on extensibility and usability.
+* 23.3k: [nylas-mail](nylas/nylas-mail): An extensible desktop mail app built on the modern web. Forks welcome! https://nylas.com/nylas-mail/    ---------------- 
+* 22.7k: [computer-science](open-source-society/computer-science): ?? Path to a free self-taught education in Computer Science!
+* 22.4k: [github-cheat-sheet](tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub. ---------------- 
 
 22.2k
 firehol/netdata
