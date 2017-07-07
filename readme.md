@@ -41,35 +41,24 @@
 * 12.2k [spacemacs](syl20bnr/spacemacs) A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
 * 12.1k [awesome-electron](sindresorhus/awesome-electron) Useful resources for creating apps with Electron
 * 12.0k [tesseract](tesseract-ocr/tesseract) Tesseract Open Source OCR Engine (main repository)
-* 11.4k [awesome-deep-learning-papers](terryum/awesome-deep-learning-papers) The most cited deep learning papers
 * 11k [influxdb](influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
 * 10.5k [netty](netty/netty) Netty project - an event-driven asynchronous network application framework
 * 10.3k [mxnet](dmlc/mxnet) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler;
 * 10.2k [incubator-predictionio Scala](apache/incubator-predictionio) PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.
 * 10.2k [drone](drone/drone) Drone is a Continuous Delivery platform built on Docker, written in Go
-* 10.2k python [pandas](pandas-dev/pandas) Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more http://pandas.pydata.org
 * 9.8k [awesome-shell](alebcay/awesome-shell) A  curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * 9.5k [data-science-ipython-notebooks](donnemartin/data-science-ipython-notebooks) Recently updated with 50 new notebooks! Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 * 8.9k [dubbo](alibaba/dubbo) Dubbo is a distributed, high performance RPC framework empowering applications with service import/export capabil
-* 8.8k [pyspider](binux/pyspider) A Powerful Spider(Web Crawler) System in Python.
-* 8.7k [Qix](ty4z2008/Qix) Machine Learning?Deep Learning?PostgreSQL?Distributed System?Node.Js?Golang
-* 8.0k [awesome-tensorflow](jtoy/awesome-tensorflow) TensorFlow - A curated list of dedicated resources 
-* 7.9k [koel](phanan/koel) A personal music streaming server that works.
-* 7.9k [ZeroNet](HelloZeroNet/ZeroNet) ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+* 7.9k **[koel](phanan/koel)** A personal music streaming server that works.  -------
+* 7.9k **[ZeroNet](HelloZeroNet/ZeroNet)** ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network   ----------
 * 7.9k [salt](saltstack/salt) Software to automate the management and configuration of any infrastructure or application at scale. Get access to th
-* 7.9k [ipfs](ipfs/ipfs) IPFS - The Permanent Web
+* 7.9k **[ipfs](ipfs/ipfs)** IPFS - The Permanent Web  ---------------------
 * 7.6k [glances](nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
-* 7.6k [openface](cmusatyalab/openface) Face recognition with deep neural networks.
-* 7.6k [electronic-wechat](geeeeeeeeek/electronic-wechat) A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
-* 7.3k [home-assistant](home-assistant/home-assistant) Open-source home automation platform running on Python 3
-* 6.7k [learn-anything](nikitavoloboev/learn-anything) Search Interactive Mind Maps to learn anything ***
+* 7.6k **[electronic-wechat](geeeeeeeeek/electronic-wechat)** A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong. ----------------------
+* 7.3k **[home-assistant](home-assistant/home-assistant)** Open-source home automation platform running on Python 3  ------------------
 * 6.5k [twemoji](twitter/twemoji) Twitter Emoji for Everyone http://twitter.github.io/twemoji
-* 6.5k [cheatsheets-ai](kailashahirwar/cheatsheets-ai) Essential Cheat Sheets for deep learning and machine learning researchers
 * 6.3k [dularion/streama](dularion/streama)  It's like Netflix, but self-hosted! http://dularion.github.io/streama/
-*  [omniauth/omniauth](omniauth/omniauth) OmniAuth is a flexible authentication system utilizing Rack middleware.
-*  [openai/gym](openai/gym) A toolkit for developing and comparing reinforcement learning algorithms.
-*  [tflearn/tflearn](tflearn/tflearn) Deep learning library featuring a higher-level API for TensorFlow.
-*  [rushter/MLAlgorithms](rushter/MLAlgorithms) Minimal and clean examples of machine learning algorithms
+* 6.3k [omniauth/omniauth](omniauth/omniauth) OmniAuth is a flexible authentication system utilizing Rack middleware.
 *  []()
 *  []()
 *  []()
@@ -94,13 +83,27 @@
 * 12.5k [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computatio...
 * 12.4k [Deep-Learning-Papers-Reading-Roadmap](songrotek/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 * 12.3k [TensorFlow-Examples](aymericdamien/TensorFlow-Examples) TensorFlow Tutorial and Examples for beginners
+* 11.4k [awesome-deep-learning-papers](terryum/awesome-deep-learning-papers) The most cited deep learning papers
+* 10.2k python [pandas](pandas-dev/pandas) Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more http://pandas.pydata.org
+* 8.7k [Qix](ty4z2008/Qix) Machine Learning?Deep Learning?PostgreSQL?Distributed System?Node.Js?Golang
+* 8.0k [awesome-tensorflow](jtoy/awesome-tensorflow) TensorFlow - A curated list of dedicated resources
+* 7.6k [openface](cmusatyalab/openface) Face recognition with deep neural networks.
+* 6.5k [cheatsheets-ai](kailashahirwar/cheatsheets-ai) Essential Cheat Sheets for deep learning and machine learning researchers
+* 6.0k [openai/gym](openai/gym) A toolkit for developing and comparing reinforcement learning algorithms.
+* 6.0k [tflearn/tflearn](tflearn/tflearn) Deep learning library featuring a higher-level API for TensorFlow.
+* 6.0k [rushter/MLAlgorithms](rushter/MLAlgorithms) Minimal and clean examples of machine learning algorithms
+
+*  []()
+*  []()
 *  []()
 *  []()
 
 # Search Engine
 * 23.6k: [elasticsearch](elastic/elasticsearch): Open Source, Distributed, RESTful Search Engine
 * 21.2k [scrapy](scrapy/scrapy)   Scrapy, a fast high-level web crawling & scraping framework for Python.
+* 8.8k [pyspider](binux/pyspider) A Powerful Spider(Web Crawler) System in Python.
 * 7.6k [elastic/kibana](elastic/kibana) Kibana analytics and search dashboard for Elasticsearch
+* 6.7k **[learn-anything](nikitavoloboev/learn-anything)** Search Interactive Mind Maps to learn anything -------------
 *  []()
 *  []()
 
