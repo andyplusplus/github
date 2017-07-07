@@ -1,5 +1,6 @@
 # Search
 * stars:>1
+* stars:5000..6600
 * topic:machine-learning
 
 # most popular 
@@ -41,7 +42,7 @@
 * 12.2k [spacemacs](https://github.com/syl20bnr/spacemacs) A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
 * 12.1k [awesome-electron](https://github.com/sindresorhus/awesome-electron) Useful resources for creating apps with Electron
 * 12.0k [tesseract](https://github.com/tesseract-ocr/tesseract) Tesseract Open Source OCR Engine (main repository)
-* 11k [influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
+* 11.0k [influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
 * 10.5k [netty](https://github.com/netty/netty) Netty project - an event-driven asynchronous network application framework
 * 10.3k [mxnet](https://github.com/dmlc/mxnet) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler;
 * 10.2k [incubator-predictionio Scala](https://github.com/apache/incubator-predictionio) PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.
@@ -63,7 +64,7 @@
 *  []()
 *  []()
 *  []()
-*  []()
+
 
 # big data, cloud, AI
 * 44.5k: [moby](https://github.com/moby/moby): `Moby Project - a collaborative project for the container ecosystem to assemble container-based systems`
@@ -92,7 +93,6 @@
 * 6.0k [openai/gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms.
 * 6.0k [tflearn/tflearn](https://github.com/tflearn/tflearn) Deep learning library featuring a higher-level API for TensorFlow.
 * 6.0k [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) Minimal and clean examples of machine learning algorithms
-
 *  []()
 *  []()
 *  []()
@@ -115,6 +115,5 @@
 *  []()
 
 # Good Tools
-*  [irungentoo/toxcore](https://github.com/irungentoo/toxcore) The future of online communications. https://tox.chat/
+*  **[irungentoo/toxcore]**(https://github.com/irungentoo/toxcore) The future of online communications. https://tox.chat/  -----
 *  []()
-
