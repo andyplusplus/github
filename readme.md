@@ -1,5 +1,7 @@
 # Search
-* search for most popular repos: stars:>1
+* stars:>1
+* topic:machine-learning
+
 # most popular 
 * 291k: [freeCodeCamp](freeCodeCamp/freeCodeCamp): `The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.`
 * 31.1k: [the-art-of-command-line](jlevy/the-art-of-command-line): `Master the command line, in one page`
@@ -46,15 +48,33 @@
 * 10.2k [incubator-predictionio Scala](apache/incubator-predictionio) PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.
 * 10.2k [drone](drone/drone) Drone is a Continuous Delivery platform built on Docker, written in Go
 * 10.2k python [pandas](pandas-dev/pandas) Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more http://pandas.pydata.org
-* 9.8k [alebcay/awesome-shell](alebcay/awesome-shell) A  curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+* 9.8k [awesome-shell](alebcay/awesome-shell) A  curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+* 9.5k [data-science-ipython-notebooks](donnemartin/data-science-ipython-notebooks) Recently updated with 50 new notebooks! Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+* 8.9k [dubbo](alibaba/dubbo) Dubbo is a distributed, high performance RPC framework empowering applications with service import/export capabil
+* 8.8k [pyspider](binux/pyspider) A Powerful Spider(Web Crawler) System in Python.
+* 8.7k [Qix](ty4z2008/Qix) Machine Learning?Deep Learning?PostgreSQL?Distributed System?Node.Js?Golang
+* 8.0k [awesome-tensorflow](jtoy/awesome-tensorflow) TensorFlow - A curated list of dedicated resources 
+* 7.9k [koel](phanan/koel) A personal music streaming server that works.
+* 7.9k [ZeroNet](HelloZeroNet/ZeroNet) ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+* 7.9k [salt](saltstack/salt) Software to automate the management and configuration of any infrastructure or application at scale. Get access to th
+* 7.9k [ipfs](ipfs/ipfs) IPFS - The Permanent Web
+* 7.6k [glances](nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
+* 7.6k [openface](cmusatyalab/openface) Face recognition with deep neural networks.
+* 7.6k [electronic-wechat](geeeeeeeeek/electronic-wechat) A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+* 7.3k [home-assistant](home-assistant/home-assistant) Open-source home automation platform running on Python 3
+* 6.7k [learn-anything](nikitavoloboev/learn-anything) Search Interactive Mind Maps to learn anything ***
+* 6.5k [twemoji](twitter/twemoji) Twitter Emoji for Everyone http://twitter.github.io/twemoji
+* 6.5k [cheatsheets-ai](kailashahirwar/cheatsheets-ai) Essential Cheat Sheets for deep learning and machine learning researchers
+* 6.3k [dularion/streama](dularion/streama)  It's like Netflix, but self-hosted! http://dularion.github.io/streama/
+*  [omniauth/omniauth](omniauth/omniauth) OmniAuth is a flexible authentication system utilizing Rack middleware.
+*  [openai/gym](openai/gym) A toolkit for developing and comparing reinforcement learning algorithms.
+*  [tflearn/tflearn](tflearn/tflearn) Deep learning library featuring a higher-level API for TensorFlow.
+*  [rushter/MLAlgorithms](rushter/MLAlgorithms) Minimal and clean examples of machine learning algorithms
 *  []()
 *  []()
-
-
-
-
-
-
+*  []()
+*  []()
+*  []()
 
 # big data, cloud, AI
 * 44.5k: [moby](moby/moby): `Moby Project - a collaborative project for the container ecosystem to assemble container-based systems`
@@ -74,12 +94,24 @@
 * 12.5k [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computatio...
 * 12.4k [Deep-Learning-Papers-Reading-Roadmap](songrotek/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 * 12.3k [TensorFlow-Examples](aymericdamien/TensorFlow-Examples) TensorFlow Tutorial and Examples for beginners
-
+*  []()
+*  []()
 
 # Search Engine
 * 23.6k: [elasticsearch](elastic/elasticsearch): Open Source, Distributed, RESTful Search Engine
 * 21.2k [scrapy](scrapy/scrapy)   Scrapy, a fast high-level web crawling & scraping framework for Python.
+* 7.6k [elastic/kibana](elastic/kibana) Kibana analytics and search dashboard for Elasticsearch
+*  []()
+*  []()
 
 
 
+# Git
+*  [Hack-with-Github/Awesome-Hacking](Hack-with-Github/Awesome-Hacking)  A collection of various awesome lists for hackers, pentesters and security researchers
+*  []()
+*  []()
+
+# Good Tools
+*  [irungentoo/toxcore](irungentoo/toxcore) The future of online communications. https://tox.chat/
+*  []()
 
