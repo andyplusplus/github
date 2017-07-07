@@ -17,7 +17,7 @@
 * 19.7k [pm2](Unitech/pm2)  Production Process Manager for Node.js apps with a built-in Load Balancer.
 * 19.7k [Projects](karan/Projects)  A list of practical projects that anyone can solve in any programming language.
 * 19.2k [awesome-awesomeness](bayandin/awesome-awesomeness)   A curated list of awesome awesomeness
-* 19k [certbot](certbot/certbot)   Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto:
+* 19.0k [certbot](certbot/certbot)   Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto:
 * 18.5k [protobuf](google/protobuf)  Protocol Buffers - Google's data interchange format
 * 18.4k [shadowsocks](shadowsocks/shadowsocks)  Updated 13 days ago
 * 17.9k [system-design-primer](donnemartin/system-design-primer)   Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
@@ -27,22 +27,53 @@
 * 16.7k [opencv](opencv/opencv)   Open Source Computer Vision Library
 * 16.5k [syncthing](syncthing/syncthing)   Open Source Continuous File Synchronization
 * 16.5k [huginn](huginn/huginn)   Create agents that monitor and act on your behalf. Your agents are standing by!
-* 16k [free-for-dev](ripienaar/free-for-dev)   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* 16.0k [free-for-dev](ripienaar/free-for-dev)   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * 15.7k [gitbook](GitbookIO/gitbook)   Modern documentation format and toolchain using Git and Markdown
 * 15.5k [How-to-Make-a-Computer-Operating-System](SamyPesse/How-to-Make-a-Computer-Operating-System)   How to Make a Computer Operating System in C++
 * 15.5k [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)   A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+* 14.6k [what-happens-when](alex/what-happens-when) An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+* 14.6k [linux-insides](0xAX/linux-insides) A little bit about a linux kernel
+* 14.1k [bitcoin](bitcoin/bitcoin) Bitcoin Core integration/staging tree
+* 14.1k [etcd](coreos/etcd) Distributed reliable key-value store for the most critical data of a distributed system
+* 13.4k [reddit](reddit/reddit) the code that powers reddit.com
+* 12.2k [spacemacs](syl20bnr/spacemacs) A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!
+* 12.1k [awesome-electron](sindresorhus/awesome-electron) Useful resources for creating apps with Electron
+* 12.0k [tesseract](tesseract-ocr/tesseract) Tesseract Open Source OCR Engine (main repository)
+* 11.4k [awesome-deep-learning-papers](terryum/awesome-deep-learning-papers) The most cited deep learning papers
+* 11k [influxdb](influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
+* 10.5k [netty](netty/netty) Netty project - an event-driven asynchronous network application framework
+* 10.3k [mxnet](dmlc/mxnet) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler;
+* 10.2k [incubator-predictionio Scala](apache/incubator-predictionio) PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.
+* 10.2k [drone](drone/drone) Drone is a Continuous Delivery platform built on Docker, written in Go
+* 10.2k python [pandas](pandas-dev/pandas) Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more http://pandas.pydata.org
+* 9.8k [alebcay/awesome-shell](alebcay/awesome-shell) A  curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+*  []()
+*  []()
+
+
+
+
+
 
 
 # big data, cloud, AI
 * 44.5k: [moby](moby/moby): `Moby Project - a collaborative project for the container ecosystem to assemble container-based systems`
 * 62.8k: [tensorflow](tensorflow/tensorflow): `Computation using data flow graphs for scalable machine learning`
 * 24.7k: [kubernetes](kubernetes/kubernetes): `Production-Grade Container Scheduling and Management`
-* 24k: [awesome-machine-learning](josephmisiti/awesome-machine-learning):** `A curated list of awesome Machine Learning frameworks, libraries and software.`
+* 24.0k: [awesome-machine-learning](josephmisiti/awesome-machine-learning):** `A curated list of awesome Machine Learning frameworks, libraries and software.`
 * 19.4k [scikit-learn](scikit-learn/scikit-learn)  scikit-learn: machine learning in Python
 * 19.4k [awesome-public-datasets](caesar0301/awesome-public-datasets)   An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone! ----------------
 * 18.9k [caffe](BVLC/caffe)   Caffe: a fast open framework for deep learning. ----------------
 * 18.1k [models](ensorflow/models)   Models built with TensorFlow  ----------------
 * 17.3k [keras](fchollet/keras)   Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.
+* 15.5k [machine-learning-for-software-engineers](ZuzooVn/machine-learning-for-software-engineers) A complete daily plan for studying to become a machine learning engineer.
+* 15.5k [incubator-superset](apache/incubator-superset) Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+* 14.1k [neural-style](jcjohnson/neural-style) Torch implementation of neural style algorithm
+* 13.8k [dokku](dokku/dokku) A docker-powered PaaS that helps you build and manage the lifecycle of applications
+* 13.4k [spark](apache/spark) Mirror of Apache Spark
+* 12.5k [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computatio...
+* 12.4k [Deep-Learning-Papers-Reading-Roadmap](songrotek/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+* 12.3k [TensorFlow-Examples](aymericdamien/TensorFlow-Examples) TensorFlow Tutorial and Examples for beginners
 
 
 # Search Engine
