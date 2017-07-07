@@ -19,12 +19,12 @@
 * 22.7k: [computer-science](open-source-society/computer-science): ?? Path to a free self-taught education in Computer Science!
 * 22.4k: [github-cheat-sheet](tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub. ---------------- 
 * 22.2k [netdata](firehol/netdata): Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
-* 21.2k [scrapy/scrapy]()   Scrapy, a fast high-level web crawling & scraping framework for Python.
-* 19.7k [Unitech/pm2]()  Production Process Manager for Node.js apps with a built-in Load Balancer.
-* 19.7k [karan/Projects]()  ?? A list of practical projects that anyone can solve in any programming language.
-* 19.4k [scikit-learn/scikit-learn]()  scikit-learn: machine learning in Python
-* 19.4k [caesar0301/awesome-public-datasets]()   An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone! ----------------
-* 19.2k [bayandin/awesome-awesomeness]()   A curated list of awesome awesomeness
+* 21.2k [scrapy](scrapy/scrapy)   Scrapy, a fast high-level web crawling & scraping framework for Python.
+* 19.7k [pm2](Unitech/pm2)  Production Process Manager for Node.js apps with a built-in Load Balancer.
+* 19.7k [Projects](karan/Projects)  ?? A list of practical projects that anyone can solve in any programming language.
+* 19.4k [scikit-learn](scikit-learn/scikit-learn)  scikit-learn: machine learning in Python
+* 19.4k [awesome-public-datasets](caesar0301/awesome-public-datasets)   An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone! ----------------
+* 19.2k [awesome-awesomeness](bayandin/awesome-awesomeness)   A curated list of awesome awesomeness
 * 19k [certbot/certbot]()   Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto:
 * 18.9k  [BVLC/caffe]()   Caffe: a fast open framework for deep learning. ----------------
 * 18.5k [google/protobuf]()  Protocol Buffers - Google's data interchange format
