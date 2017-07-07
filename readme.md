@@ -14,7 +14,7 @@
 * 23.6k: [neovim](neovim/neovim): Vim-fork focused on extensibility and usability.
 * 23.3k: [nylas-mail](nylas/nylas-mail): An extensible desktop mail app built on the modern web. Forks welcome! https://nylas.com/nylas-mail/
 * 22.7k: [computer-science](open-source-society/computer-science): Path to a free self-taught education in Computer Science!
-* 22.4k: [github-cheat-sheet](tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub. ---------------- 
+* 22.4k: [github-cheat-sheet](tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub. ----- 
 * 22.2k [netdata](firehol/netdata): Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
 * 19.7k [pm2](Unitech/pm2)  Production Process Manager for Node.js apps with a built-in Load Balancer.
 * 19.7k [Projects](karan/Projects)  A list of practical projects that anyone can solve in any programming language.
@@ -49,13 +49,13 @@
 * 9.8k [awesome-shell](alebcay/awesome-shell) A  curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 * 9.5k [data-science-ipython-notebooks](donnemartin/data-science-ipython-notebooks) Recently updated with 50 new notebooks! Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 * 8.9k [dubbo](alibaba/dubbo) Dubbo is a distributed, high performance RPC framework empowering applications with service import/export capabil
-* 7.9k **[koel](phanan/koel)** A personal music streaming server that works.  -------
-* 7.9k **[ZeroNet](HelloZeroNet/ZeroNet)** ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network   ----------
+* 7.9k **[koel](phanan/koel)** A personal music streaming server that works.  -----
+* 7.9k **[ZeroNet](HelloZeroNet/ZeroNet)** ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network   -----
 * 7.9k [salt](saltstack/salt) Software to automate the management and configuration of any infrastructure or application at scale. Get access to th
-* 7.9k **[ipfs](ipfs/ipfs)** IPFS - The Permanent Web  ---------------------
+* 7.9k **[ipfs](ipfs/ipfs)** IPFS - The Permanent Web  -----
 * 7.6k [glances](nicolargo/glances) Glances an Eye on your system. A top/htop alternative.
-* 7.6k **[electronic-wechat](geeeeeeeeek/electronic-wechat)** A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong. ----------------------
-* 7.3k **[home-assistant](home-assistant/home-assistant)** Open-source home automation platform running on Python 3  ------------------
+* 7.6k **[electronic-wechat](geeeeeeeeek/electronic-wechat)** A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong. -----
+* 7.3k **[home-assistant](home-assistant/home-assistant)** Open-source home automation platform running on Python 3  -----
 * 6.5k [twemoji](twitter/twemoji) Twitter Emoji for Everyone http://twitter.github.io/twemoji
 * 6.3k [dularion/streama](dularion/streama)  It's like Netflix, but self-hosted! http://dularion.github.io/streama/
 * 6.3k [omniauth/omniauth](omniauth/omniauth) OmniAuth is a flexible authentication system utilizing Rack middleware.
@@ -71,9 +71,9 @@
 * 24.7k: [kubernetes](kubernetes/kubernetes): `Production-Grade Container Scheduling and Management`
 * 24.0k: [awesome-machine-learning](josephmisiti/awesome-machine-learning):** `A curated list of awesome Machine Learning frameworks, libraries and software.`
 * 19.4k [scikit-learn](scikit-learn/scikit-learn)  scikit-learn: machine learning in Python
-* 19.4k [awesome-public-datasets](caesar0301/awesome-public-datasets)   An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone! ----------------
-* 18.9k [caffe](BVLC/caffe)   Caffe: a fast open framework for deep learning. ----------------
-* 18.1k [models](ensorflow/models)   Models built with TensorFlow  ----------------
+* 19.4k [awesome-public-datasets](caesar0301/awesome-public-datasets)   An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone! -----
+* 18.9k [caffe](BVLC/caffe)   Caffe: a fast open framework for deep learning. -----
+* 18.1k [models](ensorflow/models)   Models built with TensorFlow  -----
 * 17.3k [keras](fchollet/keras)   Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.
 * 15.5k [machine-learning-for-software-engineers](ZuzooVn/machine-learning-for-software-engineers) A complete daily plan for studying to become a machine learning engineer.
 * 15.5k [incubator-superset](apache/incubator-superset) Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
@@ -103,7 +103,7 @@
 * 21.2k [scrapy](scrapy/scrapy)   Scrapy, a fast high-level web crawling & scraping framework for Python.
 * 8.8k [pyspider](binux/pyspider) A Powerful Spider(Web Crawler) System in Python.
 * 7.6k [elastic/kibana](elastic/kibana) Kibana analytics and search dashboard for Elasticsearch
-* 6.7k **[learn-anything](nikitavoloboev/learn-anything)** Search Interactive Mind Maps to learn anything -------------
+* 6.7k **[learn-anything](nikitavoloboev/learn-anything)** Search Interactive Mind Maps to learn anything -----
 *  []()
 *  []()
 
