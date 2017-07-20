@@ -60,10 +60,17 @@
 * 6.5k [twemoji](https://github.com/twitter/twemoji) Twitter Emoji for Everyone http://twitter.github.io/twemoji
 * 6.3k [dularion/streama](https://github.com/dularion/streama)  It's like Netflix, but self-hosted! http://dularion.github.io/streama/
 * 6.3k [omniauth/omniauth](https://github.com/omniauth/omniauth) OmniAuth is a flexible authentication system utilizing Rack middleware.
-*  []()
-*  []()
-*  []()
-*  []()
+* 5.5k [paperwork](https://github.com/twostairs/paperwork) Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+* 5.5k [iTerm2](gnachman/iTerm2) iTerm2 is a terminal emulator for Mac OS X that does amazing things.
+* 5.5k [micro](https://github.com/zyedidia/micro) A modern and intuitive terminal-based text editor 
+* 5.5k [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) NGINX-based Media Streaming Server  -----
+* 5.5k [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). -----
+* 5.1k [tracking.js](https://github.com/eduardolundgren/tracking.js) A modern approach for Computer Vision on the web ---
+* 5.1k [bup](https://github.com/bup/bup) ery efficient backup system based on the git packfile format, providing fast incremental saves and global deduplicat:
+* 5.1k [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer) Listing of community-curated resources to find topical remote freelance & contract work for software developers, web
+* 5.1k []()
+* 5.1k []()
+* 5.1k []()
 
 
 # big data, cloud, AI
@@ -93,7 +100,8 @@
 * 6.0k [openai/gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms.
 * 6.0k [tflearn/tflearn](https://github.com/tflearn/tflearn) Deep learning library featuring a higher-level API for TensorFlow.
 * 6.0k [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) Minimal and clean examples of machine learning algorithms
-*  []()
+* 5.5k [playground](https://github.com/tensorflow/playground)  Play with neural networks!  -----
+* 5.1k [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) A curated list of awesome Deep Learning tutorials, projects and communities.
 *  []()
 *  []()
 *  []()
