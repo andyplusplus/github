@@ -44,7 +44,6 @@
 * 12.0k [tesseract](https://github.com/tesseract-ocr/tesseract) Tesseract Open Source OCR Engine (main repository)
 * 11.0k [influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics
 * 10.5k [netty](https://github.com/netty/netty) Netty project - an event-driven asynchronous network application framework
-* 10.3k [mxnet](https://github.com/dmlc/mxnet) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler;
 * 10.2k [incubator-predictionio Scala](https://github.com/apache/incubator-predictionio) PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.
 * 10.2k [drone](https://github.com/drone/drone) Drone is a Continuous Delivery platform built on Docker, written in Go
 * 9.8k [awesome-shell](https://github.com/alebcay/awesome-shell) A  curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -92,6 +91,7 @@
 * 12.4k [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 * 12.3k [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) TensorFlow Tutorial and Examples for beginners
 * 11.4k [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) The most cited deep learning papers
+* 10.3k [mxnet](https://github.com/dmlc/mxnet) Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler;
 * 10.2k python [pandas](https://github.com/pandas-dev/pandas) Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more http://pandas.pydata.org
 * 8.7k [Qix](https://github.com/ty4z2008/Qix) Machine Learning?Deep Learning?PostgreSQL?Distributed System?Node.Js?Golang
 * 8.0k [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) TensorFlow - A curated list of dedicated resources
