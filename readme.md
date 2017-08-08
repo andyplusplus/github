@@ -76,7 +76,7 @@
 * 44.5k: [moby](https://github.com/moby/moby): `Moby Project - a collaborative project for the container ecosystem to assemble container-based systems`
 * 62.8k: [tensorflow](https://github.com/tensorflow/tensorflow): `Computation using data flow graphs for scalable machine learning`
 * 24.7k: [kubernetes](https://github.com/kubernetes/kubernetes): `Production-Grade Container Scheduling and Management`
-* 24.0k: [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning):** `A curated list of awesome Machine Learning frameworks, libraries and software.`
+* 24.0k: **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning):** `A curated list of awesome Machine Learning frameworks, libraries and software.`
 * 19.4k [scikit-learn](https://github.com/scikit-learn/scikit-learn)  scikit-learn: machine learning in Python
 * 19.4k [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)   An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone! -----
 * 18.9k [caffe](https://github.com/BVLC/caffe)   Caffe: a fast open framework for deep learning. -----
