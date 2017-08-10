@@ -71,11 +71,16 @@
 * 5.1k []()
 * 5.1k []()
 
+# big data, cloud
+* 44.5k: [moby](https://github.com/moby/moby): `Moby Project - a collaborative project for the container ecosystem to assemble container-based systems`
+* 24.7k: [kubernetes](https://github.com/kubernetes/kubernetes): `Production-Grade Container Scheduling and Management`
+* 15.5k [incubator-superset](https://github.com/apache/incubator-superset) Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+* 13.8k [dokku](https://github.com/dokku/dokku) A docker-powered PaaS that helps you build and manage the lifecycle of applications
+* 13.4k [spark](https://github.com/apache/spark) Mirror of Apache Spark
+
 
 # big data, cloud, AI
-* 44.5k: [moby](https://github.com/moby/moby): `Moby Project - a collaborative project for the container ecosystem to assemble container-based systems`
 * 62.8k: [tensorflow](https://github.com/tensorflow/tensorflow): `Computation using data flow graphs for scalable machine learning`
-* 24.7k: [kubernetes](https://github.com/kubernetes/kubernetes): `Production-Grade Container Scheduling and Management`
 * 24.0k: **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning):** `A curated list of awesome Machine Learning frameworks, libraries and software.`
 * 19.4k [scikit-learn](https://github.com/scikit-learn/scikit-learn)  scikit-learn: machine learning in Python
 * 19.4k [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)   An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone! -----
@@ -83,10 +88,7 @@
 * 18.1k [models](https://github.com/ensorflow/models)   Models built with TensorFlow  -----
 * 17.3k [keras](https://github.com/fchollet/keras)   Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.
 * 15.5k [machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) A complete daily plan for studying to become a machine learning engineer.
-* 15.5k [incubator-superset](https://github.com/apache/incubator-superset) Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 * 14.1k [neural-style](https://github.com/jcjohnson/neural-style) Torch implementation of neural style algorithm
-* 13.8k [dokku](https://github.com/dokku/dokku) A docker-powered PaaS that helps you build and manage the lifecycle of applications
-* 13.4k [spark](https://github.com/apache/spark) Mirror of Apache Spark
 * 12.5k [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computatio...
 * 12.4k [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 * 12.3k [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) TensorFlow Tutorial and Examples for beginners
