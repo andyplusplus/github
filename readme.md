@@ -103,7 +103,7 @@
 * 6.0k [tflearn/tflearn](https://github.com/tflearn/tflearn) Deep learning library featuring a higher-level API for TensorFlow.
 * 6.0k [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) Minimal and clean examples of machine learning algorithms
 * 5.5k [playground](https://github.com/tensorflow/playground)  Play with neural networks!  -----
-* 5.1k [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) A curated list of awesome Deep Learning tutorials, projects and communities.
+* 5.1k **[awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning):`A curated list of awesome Deep Learning tutorials, projects and communities.`
 *  []()
 *  []()
 *  []()
