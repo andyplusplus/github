@@ -120,11 +120,11 @@
 * []()
 * []()
 
-
+CS229 Machine Learning  Autumn 2016
 
 # University Classes
-* [Stanford CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html)
-	* []()
+* [Stanford: CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html)
+	* [Stanford: CS229 Machine Learning  Autumn 2016](http://cs229.stanford.edu/)
 * []()
 * []()
 * []()
@@ -162,3 +162,9 @@
 * stars:5000..6600
 * topic:machine-learning
 
+# AI & Telecommunications
+* [The applications of Artificial Intelligence (AI) in the Telecoms industry](http://www.datasciencecentral.com/profiles/blogs/the-applications-of-artificial-intelligence-ai-in-the-telecoms)
+* [7 Innovative Artificial Intelligence Startups to Watch in 2017](https://www.inc.com/lisa-calhoun/7-artificial-intelligence-startups-to-watch-in-2017.html)
+* []()
+* []()
+* []()
