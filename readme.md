@@ -79,7 +79,7 @@
 * 13.4k [spark](https://github.com/apache/spark) Mirror of Apache Spark
 
 
-# big data, cloud, AI
+# AI
 * 62.8k: [tensorflow](https://github.com/tensorflow/tensorflow): `Computation using data flow graphs for scalable machine learning`
 * 24.0k: **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning):** `A curated list of awesome Machine Learning frameworks, libraries and software.`
 * 19.4k [scikit-learn](https://github.com/scikit-learn/scikit-learn)  scikit-learn: machine learning in Python
@@ -107,6 +107,16 @@
 *  []()
 *  []()
 *  []()
+*  []()
+*  []()
+* [??:??????? TensorFlow ???](https://www.zhihu.com/question/41667903)
+* [????TensorFlow????2(Learning paths 2)](http://hp.stuhome.net/index.php/2017/03/28/tensorflow-learning-paths-2/)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 # Search Engine
 * 23.6k: [elasticsearch](https://github.com/elastic/elasticsearch): Open Source, Distributed, RESTful Search Engine
@@ -124,6 +134,12 @@
 *  []()
 *  []()
 
+
 # Good Tools
 *  **[irungentoo/toxcore]**(https://github.com/irungentoo/toxcore) The future of online communications. https://tox.chat/  -----
 *  []()
+
+
+# Other Resources
+	* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+	* []()
