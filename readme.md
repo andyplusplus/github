@@ -106,17 +106,17 @@
 	*  []()
 	
 # None Github
-	* [??:??????? TensorFlow ???](https://www.zhihu.com/question/41667903)
-	* [????TensorFlow????2(Learning paths 2)](http://hp.stuhome.net/index.php/2017/03/28/tensorflow-learning-paths-2/)
-	* []()
-	* []()
-	* []()
-	* []()
-	* []()
+* [??:??????? TensorFlow ???](https://www.zhihu.com/question/41667903)
+* [????TensorFlow????2(Learning paths 2)](http://hp.stuhome.net/index.php/2017/03/28/tensorflow-learning-paths-2/)
+* []()
+* []()
+* []()
+* []()
+* []()
 
 # University Classes
 	* [Stanford CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/index.html)
-	* []()
+		* []()
 	* []()
 	* []()
 	* []()
