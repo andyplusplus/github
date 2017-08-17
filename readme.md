@@ -1,5 +1,3 @@
-
-
 # most popular 
 * 291k: [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): `The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.`
 * 31.1k: [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): `Master the command line, in one page`
@@ -13,9 +11,9 @@
 * 23.3k: [nylas-mail](https://github.com/nylas/nylas-mail): An extensible desktop mail app built on the modern web. Forks welcome! https://nylas.com/nylas-mail/
 * 22.7k: [computer-science](https://github.com/open-source-society/computer-science): Path to a free self-taught education in Computer Science!
 * 22.4k: [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet): A list of cool features of Git and GitHub. ----- 
-* 22.2k [netdata](https://github.com/firehol/netdata): Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
-* 19.7k [pm2](https://github.com/Unitech/pm2)  Production Process Manager for Node.js apps with a built-in Load Balancer.
-* 19.7k [Projects](https://github.com/karan/Projects)  A list of practical projects that anyone can solve in any programming language.
+* 22.2k: [netdata](https://github.com/firehol/netdata): Get control of your servers. Simple. Effective. Awesome! https://my-netdata.io/
+* 19.7k: [pm2](https://github.com/Unitech/pm2)  Production Process Manager for Node.js apps with a built-in Load Balancer.
+* 19.7k: [Projects](https://github.com/karan/Projects)  A list of practical projects that anyone can solve in any programming language.
 * 19.2k [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)   A curated list of awesome awesomeness
 * 19.0k [certbot](https://github.com/certbot/certbot)   Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto:
 * 18.5k [protobuf](https://github.com/google/protobuf)  Protocol Buffers - Google's data interchange format
@@ -157,14 +155,20 @@ CS229 Machine Learning  Autumn 2016
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * []()
 
+
 # Search
 * stars:>1
 * stars:5000..6600
 * topic:machine-learning
 
+
 # AI & Telecommunications
 * [The applications of Artificial Intelligence (AI) in the Telecoms industry](http://www.datasciencecentral.com/profiles/blogs/the-applications-of-artificial-intelligence-ai-in-the-telecoms)
 * [7 Innovative Artificial Intelligence Startups to Watch in 2017](https://www.inc.com/lisa-calhoun/7-artificial-intelligence-startups-to-watch-in-2017.html)
+* [???? 860?????,?????????????????...](https://www.zhihu.com/question/28292359)
+* [2016??????????? TOP300](http://www.maigoo.com/news/466685.html)
+* [?????????????????????? [???] ??????:???????](https://www.youtube.com/watch?v=yZV-XCSmWQY)
+* []()
 * []()
 * []()
 * []()
