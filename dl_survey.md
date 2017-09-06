@@ -4,8 +4,8 @@
 	* [20个令人惊叹的深度学习应用](http://www.sohu.com/a/134345723_610300)
 	* [深度学习带来的变革：深度学习的十个典型应用](https://segmentfault.com/a/1190000007391860)
 	* [盘点8个最具启发意义的深度学习应用](https://baijia.baidu.com/s?old_id=542746)
-	* []()
-	* []()
+	* [wiki: Category:Artificial intelligence applications](https://en.wikipedia.org/wiki/Category:Artificial_intelligence_applications)
+	* [wiki: Applications of artificial intelligence](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 	* []()
 * 框架盘点
 	* [深度学习——你需要了解的八大开源框架](http://blog.csdn.net/isuker/article/details/52472806)
@@ -23,10 +23,6 @@
 	* []()
 	* []()
 	* []()
-	* []()
-	* []()
-	* []()
-	* []()
 * 技术相关
 	* [如果你是面试官，你怎么去判断一个面试者的深度学习水平？](https://www.zhihu.com/question/41233373)
 	* [有哪些你看了以后大呼过瘾的数据分析书](https://www.zhihu.com/question/60241622)
@@ -35,6 +31,10 @@
 	* []()
 	* []()
 *
+	* []()
+	* []()
+	* []()
+	* []()
 *
 *
 *
