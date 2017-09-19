@@ -4,10 +4,7 @@
 * []()
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
+
 
 # Companies
 * 北京数字绿土科技有限公司，致力于高精度的三维地理数据获取、分析和可视化[]()
@@ -25,6 +22,7 @@
 * []()
 * []()
 
+
 # Lidar Digest
 * [loam_velodyne, 2017.04.19](https://github.com/laboshinl/loam_velodyne): Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.
 * [andrewgodwin/lidartile, now, python](https://github.com/andrewgodwin/lidartile)：Makes 3D printable terrain tiles from LIDAR data
@@ -41,31 +39,50 @@
 	* [Mapping the World with Drones!](https://www.altizure.com/explore):
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
+
+# Implementation Method
 * [pgpointcloud/pointcloud](https://github.com/pgpointcloud/pointcloud):A PostgreSQL extension for storing point cloud (LIDAR) data.
 * []()
 * []()
 * []()
 * []()
 * []()
-* TODO
-	* 找GOOGLE 2d--> 3d开源
+	
+
 # Lidar Viewer
 * [displaz, now](https://github.com/c42f/displaz): A hackable lidar viewer
 * [Online Viewer](http://lidarview.com/)
 * [3DTK - the 3D ToolKit](http://slam6d.sourceforge.net/)
 * []()
+
+
 # Lidar Point Cloud Data Sources
 * [Robotic 3D Scan Repository](http://kos.informatik.uni-osnabrueck.de/3Dscans/)
 * []()
 * []()
+
+
 # Lidar Point Cloud 标准
 * [Github: awesome-point-cloud-processing](https://github.com/mmolero/awesome-point-cloud-processing): A curated list of awesome Point Cloud Processing Resources, Libraries, Software
+* []()
+* []()
+
+# Lidar Solution Digest
+* [RTAB-Map: youtube](https://www.youtube.com/watch?v=qpTS7kg9J3A)
+	* [ROS: Stereo Outdoor Mapping](http://wiki.ros.org/rtabmap_ros/Tutorials/StereoOutdoorMapping)
+	* [github](https://github.com/introlab/rtabmap_ros)
+* [BIM with the ZEB-REVO from GeoSLAM and Laserscanning Europe](https://www.youtube.com/watch?v=2UcGW-ZXOdg)
+	* [GeoSLAM ZEB-REVO handheld laser scanner](https://www.youtube.com/watch?v=k8q5xr_eLgk)
+* []()
+* []()
+* []()
+
+
+
+* TODO
+	* 找GOOGLE 2d--> 3d开源
+* []()
+* []()
 * []()
 * []()
