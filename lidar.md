@@ -3,7 +3,6 @@
 * []()
 * []()
 * []()
-* []()
 
 
 # Companies
@@ -15,10 +14,6 @@
 # Devices
 * [美国Velodyne三维激光雷达16线 VLP-16 现货 现货 现货](https://item.taobao.com/item.htm?spm=a230r.1.14.6.76bf523975sGw&id=547605456812&ns=1&abbucket=6#detail&qq-pf-to=pcqq.c2c)
 * [Velodyne](http://www.velodynelidar.com/index.html): 这个算是最大的激光雷达公司，里面有很多应用
-* []()
-* []()
-* []()
-* []()
 * []()
 * []()
 
@@ -46,14 +41,14 @@
 * []()
 * []()
 * []()
-* []()
-* []()
-	
+
 
 # Lidar Viewer
 * [displaz, now](https://github.com/c42f/displaz): A hackable lidar viewer
 * [Online Viewer](http://lidarview.com/)
 * [3DTK - the 3D ToolKit](http://slam6d.sourceforge.net/)
+* []()
+* []()
 * []()
 
 
@@ -79,10 +74,8 @@
 * []()
 
 
-
-* TODO
-	* 找GOOGLE 2d--> 3d开源
-* []()
+# TODO
+* 找GOOGLE 2d--> 3d开源
 * []()
 * []()
 * []()
