@@ -39,4 +39,4 @@
 	* [In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08)
 	* [Term 3: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-3-in-depth-on-udacitys-self-driving-car-curriculum-15d03e45d7ea)
 	* [无人驾驶车工程师纳米学位课程计划](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd013/nd013_syllabus.pdf)
-* []()
+* [Self-driving Car](https://chiyehuang.com/2017/02/21/self-driving-car/)
