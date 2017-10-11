@@ -7,7 +7,6 @@
 * []()
 
 
-
 # Open Source
 * [commaai/openpilot](https://github.com/commaai/openpilot)
 	* [谁应该为使用 OpenPilot 开源自动驾驶软件负责？](http://www.oschina.net/news/80043/whos-liable-for-george-hotzs-selfdriving-software)
@@ -26,6 +25,13 @@
 * []()
 * []()
 * []()
+
+
+# 实现转型
+* [想成为一名无人驾驶工程师吗？Udacity联合『NVIDIA』与『奔驰』，推出“无人驾驶车”课程](https://www.jiemodui.com/N/61864.html)
+* [如何评价Udacity（优达学城）的无人驾驶课程](https://www.zhihu.com/question/51288456)
+* [课程表](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd013/nd013_syllabus.pdf)
+* []()
 * []()
 * []()
 
@@ -34,9 +40,16 @@
 # Courses
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * [Self-Driving Car Nanodegree](https://cn.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+	* [无人驾驶工程师课程详细内容](https://cn.udacity.com/course/self-driving-car-engineer--nd013)
+	* [无人驾驶工程师](https://cn.udacity.com/drive)
 	* [Udacity创始人：自动驾驶为什么不是大学里的一堂课？](http://www.pingwest.com/marvels-the-avengers/)
 	* [在线教育平台Udacity将推出自动驾驶开发者课程](http://www.cheyun.com/content/12675)
 	* [In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08)
 	* [Term 3: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-3-in-depth-on-udacitys-self-driving-car-curriculum-15d03e45d7ea)
 	* [无人驾驶车工程师纳米学位课程计划](https://s3.cn-north-1.amazonaws.com.cn/static-documents/nd013/nd013_syllabus.pdf)
+	* [谷歌无人车之父创办的Udacity，开源了其“无人驾驶模拟器”](https://www.leiphone.com/news/201702/i8cioz3uQgrdoSsz.html)
+	* [模拟器地址](https://github.com/udacity/self-driving-car-sim)
 * [Self-driving Car](https://chiyehuang.com/2017/02/21/self-driving-car/)
+* []()
+* []()
+* []()
