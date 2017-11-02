@@ -8,7 +8,7 @@
 * [Jupyter Notebook Tutorial](https://www.youtube.com/watch?v=HW29067qVWk): great material that introduct anaconda.
 * [A gallery of interesting IPython Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * Commands
-	* juypter notebook
+	* jupyter notebook
 	* conda update conda
 	* conda update juypter
 	* conda install numpy

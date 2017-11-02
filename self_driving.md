@@ -1,3 +1,8 @@
+# Open Source
+* [How to Start With Self-Driving Cars Using ROS](http://www.theconstructsim.com/start-self-driving-cars-using-ros/)
+* [Here are some of the self-driving startups to watch in 2017](https://www.recode.net/2016/12/29/14102028/self-driving-startups-2017)
+* []()
+
 # news
 * [重磅:沉默已久的华为突然宣告！恭喜华为！](http://www.sohu.com/a/194274732_559369)
 * [George Hotz is giving away the code behind his self-driving car project](https://www.theverge.com/2016/11/30/13779336/comma-ai-autopilot-canceled-autonomous-car-software-free)
@@ -50,6 +55,11 @@
 	* [谷歌无人车之父创办的Udacity，开源了其“无人驾驶模拟器”](https://www.leiphone.com/news/201702/i8cioz3uQgrdoSsz.html)
 	* [模拟器地址](https://github.com/udacity/self-driving-car-sim)
 * [Self-driving Car](https://chiyehuang.com/2017/02/21/self-driving-car/)
+* []()
+* []()
+* []()
+
+# How to build self driving cars
 * []()
 * []()
 * []()

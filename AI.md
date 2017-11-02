@@ -1,38 +1,35 @@
 # Courses
-	* pattern recognization
+* pattern recognization
+
+# Books (reference to Hands-on Machine Learning with scikit-learn & TensorFlow)
+* [Data from Scratch]()
+* [Machine Learning: An Algorithmic Perspective]()
+* [Python Machine Learning]()
+* [Learning from Data]()
+* [Artificial Intelligence: A Modern Approach]()
+* [Kaggle.com]()
 
 # Machine Learning Competitions
-	* [kaggle.com](www.kaggle.com) Popular patform for machine learning competitions
-	* []()
-	* []()
-
+* [kaggle.com](www.kaggle.com) Popular patform for machine learning competitions
+* []()
 
 # Learning type
-	* Supervised Learning
-	* Reinforcement Learning
-	* Unsupervised learning
-	
+* Supervised Learning
+* Reinforcement Learning
+* Unsupervised learning
 
 # My subject
-	## Get all info in Computer Vision
+## Get all info in Computer Vision
 
 # TO Playground
 	* [Neural Network Playground](http://playground.tensorflow.org)
 	* Computer Vision		
-	
+
 # Study
 	## Learning Resources:
 		* **[How I'm Learning AI and Machine Learning](https://www.youtube.com/watch?v=OypPjvm4kiA)** For the past 6 months or so, I have been teaching myself about artificial intelligence. In this video, I describe some of the places I learned from and a few of the things I've done with my new found knowledge.
 			- [MIT OpenCourseware videos](https://www.youtube.com/watch?v=OypPjvm4kiA)
 			- [Numerical analysis lectures](https://www.youtube.com/user/justinmsolomon/videos)
-		* []()
-			- []()
-			- []()	
-			- []()
-			- []()
-			- []()
-			- []()
-			
 	## Youtube
 		* [Deep Learning SIMPLIFIED]()
 			- [www.Clarifai.com](www.Clarifai.com),[metamind.io](metamind.io)
@@ -47,12 +44,6 @@
 		* []()
 
 # Digest
-	## Machine Learning
-	* []()
-	* []()
-	* []()
-
-
 	## Artificial Intelligence
 	* [人工智能最强年中盘点：8大产业链地图+3大趋势图](http://www.sohu.com/a/157617553_115978)
 	* []()
@@ -139,3 +130,91 @@
 		- []()
 		- []()
 	* Mental attitude plays a far more important role in a person's success or failure than mental capacity.
+	
+	
+# Resources
+* [深度学习与计算机视觉 看这一篇就够了](http://blog.csdn.net/u012507022/article/details/51441629)
+* [京东 李成华：深度学习与京东智能客服机器人 JIMI](http://www.useit.com.cn/thread-8356-1-1.html)
+* [Must Know Tips/Tricks in Deep Neural Networks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
+* []()
+* []()
+* []()
+* []()
+
+# Goal
+* [黄学东：微软是如何利用人工智能技术做好语音识别的](http://www.msra.cn/zh-cn/news/blogs/2017/04/xuedong-huang-talk-20170424.aspx)
+	- 愿景就是希望让计算机能听、能看、能说、能够学习
+	- 2015 微软亚洲研究院率先在计算机视觉领域有了很大的突破。研究员们在当年的ImageNet图像识别挑战赛中使用了神经网络有152层的深度学习
+	- 2016 微软在语音识别的Switchboard上再次取得重大突破，使得计算机的语音识别能力超过世界上绝大多数人，与人类专业高手持平。
+	- 微软在智能客服方面做了很多工作，现在微软产品的客服上已经使用了有深度学习的人工智能，这个功能目前已在微软美国上线了。
+	-[]()
+	-[]()		
+* [让计算机能听、能看、能说、能够学习](http://www.msra.cn/zh-cn/news/blogs/2017/04/xuedong-huang-talk-20170424.aspx)
+	-
+	-
+	-
+	-
+	-
+
+# Digest
+	* [How a Toronto professor’s research revolutionized artificial intelligence](https://www.thestar.com/news/world/2015/04/17/how-a-toronto-professors-research-revolutionized-artificial-intelligence.html)
+	
+# From Yu
+* [Digest from Yu Kai](http://tech.163.com/16/1221/08/C8Q13OG800097U80.html)
+	* 创业公司做项目一定要选择大公司不大容易进入的维度，BAT 在数据、人才、资源、服务方面的势能，创业公司很难去挑战。
+	* 但本地低功耗人工智能计算不是他们的强项，也不是他们的业务重点。
+	* 另外我认为创业一定要选难度较大的事情去做，嵌入式人工智能需要把软硬件结合，并重新定义处理器架构，这是非常复杂的工程。
+	* 地平线确实非常有幸，在很短的时间内招到了顶尖人才：包括算法、软件系统专家、硬件专家。我在百度时领导的团队平均年龄是 26 岁，而地平线工程师平均年龄是 32 岁。因为我们是非常偏技术的公司，确实需要非常资深的人加入。
+	* 最不容易成功的是基于纯算法的公司，主要原因是壁垒低。现在新的开源创新方式使得新算法不断冒出来，基本上每个小时都在创新，如果一个公司的核心竞争力基于聪明程度，这很不靠谱。这个世界上永远比你更聪明的人，而且很多。
+	* 无论是平台还是产品，其核心竞争力在这两方面：巨大的市场需求；足够的差异化和独特性，不可复制性
+	
+# 深度学习大盘点
+* How to learn Deep Learning
+	* [How do I learn deep learning in 2 months](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months)
+	* [Practical Deep Learning For Coders](https://www.quora.com/How-do-I-learn-deep-learning-in-2-months)
+* 应用盘点
+	* [深度学习应用大盘点](http://blog.csdn.net/zhaoyu106/article/details/53261055)
+	* [20个令人惊叹的深度学习应用](http://www.sohu.com/a/134345723_610300)
+	* [深度学习带来的变革：深度学习的十个典型应用](https://segmentfault.com/a/1190000007391860)
+	* [盘点8个最具启发意义的深度学习应用](https://baijia.baidu.com/s?old_id=542746)
+	* [wiki: Category:Artificial intelligence applications](https://en.wikipedia.org/wiki/Category:Artificial_intelligence_applications)
+	* [wiki: Applications of artificial intelligence](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
+	* []()
+* 框架盘点
+	* [深度学习——你需要了解的八大开源框架](http://blog.csdn.net/isuker/article/details/52472806)
+	* [十个热门开源深度学习框架](http://blog.csdn.net/isuker/article/details/52472772)
+	* [十个值得一试的开源深度学习框架](http://blog.csdn.net/isuker/article/details/52472840)
+	* []()
+	* []()
+	* []()
+* 其它
+	* [人工智能深度学习的算法可以应用到工业的机械臂上吗？](https://www.zhihu.com/question/46970616)
+	* [知乎：深度学习资源](https://www.zhihu.com/topic/19813032/hot)
+	* [大疆（DJI)有没有可能研发自动（智能）驾驶汽车](https://www.zhihu.com/question/54713012)
+	* [Face++, 商汤, 依图, 云从,百度人脸识别, 腾讯优图 谁会未来主宰](https://www.zhihu.com/question/62154874)
+	* [你所在的公司或者领域在做哪些大数据应用？](https://www.zhihu.com/question/46506165)
+* 技术相关
+	* [如果你是面试官，你怎么去判断一个面试者的深度学习水平？](https://www.zhihu.com/question/41233373)
+	* [有哪些你看了以后大呼过瘾的数据分析书](https://www.zhihu.com/question/60241622)
+	* []()
+	* []()
+	* []()
+	* []()
+	* []()
+	* []()
+	* []()
+	* []()
+	* []()
+	* []()
+	* []()
+*
+*
+*
+*
+		* []()
+			- []()
+			- []()	
+			- []()
+			- []()
+			- []()
+			- []()	
