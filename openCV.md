@@ -6,4 +6,5 @@
 * [466 bytefish/opencv](https://github.com/bytefish/opencv): OpenCV projects: Face Recognition, Machine Learning, Colormaps, Local Binary Patterns, Examples
 * [446 object_detector_app](https://github.com/datitran/object_detector_app): Real-Time Object Recognition App with Tensorflow and OpenCV
 
-* [openface](https://github.com/cmusatyalab/openface): Face recognition with deep neural networks. http://cmusatyalab.github.io/openface/
+
+* [8429 openface](https://github.com/cmusatyalab/openface): Face recognition with deep neural networks. http://cmusatyalab.github.io/openface/
