@@ -1,2 +1,0 @@
-# Drone
-* [无人机如果只知道大疆，你就真的弱爆了](https://www.leiphone.com/news/201504/Bhh5ttIauUCQeICm.html)

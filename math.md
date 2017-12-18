@@ -1,3 +1,11 @@
+# AI Math
+* Linear Alg: If you can understand SVD and everything that leads up to it, you’re mostly there. Try Strang Chaps 1-5. Decompositions, and geometric intuition. Great videos of him on line.
+* Calc: Make sure you have the basic single var derivatins and integration down, then practice partial derivatives. Don’t forget basic algebraic tricks like completing the square. Make log and exponent rules are memorized. You will spend a lot of time in log space. If you can do a Lagrangain you’re mostly there.
+* Convex Optimization. Skip Chaps 1-5 of Boyd and try some of the exercises. He’s also an entertaining lecturer and recently did a new version of his videos. Just to have the convex optimization vocabulary down is a huge help. Many ML problems are fundamentally optimization problems.
+* Stats: Focus on the form of exponential family distributions, the notion of a conjugate prior, and some know the stats vocabulary. Bayes Rule, conditional probability and associated algebra. Honestly from an ML standpoint I was shocked how little classical stats I used. I imagine though if I was modelling I’d need more. You can feel the division between the stats and engineering communities here.
+* MATLAB: If you are in a non applied ML course you will probably be working in MATLAB. Most ML research is still using this. It’s not a hard language, and pretty easy to take a formula and move it into matlab. Maybe Numpi/Scipy is gaining ground too. Just find some code implementing a simple ML routine and try to understand it. Something < 50 lines.
+* Christopher Bishop's Pattern Recognition and Machine Learning may be in your future, or Trevor Hastie Elements of Statistical Learning. Find a copy and tackle some easy bits, the appendix etc. It's worth getting used to the fact that they are dense, but also that you don't need to know it all. Most ML courses cover 1/3 of Bishop.
+
 # Math Courses
 * [If you want to learn Data Science, take a few of these statistics classes](https://medium.freecodecamp.org/if-you-want-to-learn-data-science-take-a-few-of-these-statistics-classes-9bbabab098b9)
 * [Probability and Statistics](https://www.coursera.org/browse/data-science/probability-and-statistics?languages=en)
