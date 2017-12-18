@@ -1,0 +1,2 @@
+* [机器学习书籍资料（自己正在读的）---self-reading ML booklist ( To be continued )](http://blog.csdn.net/yuanmengxinglong/article/details/57403248)
+* [机器学习书籍选择?](https://www.zhihu.com/question/31091250/answer/148348537)

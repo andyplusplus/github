@@ -1,0 +1,9 @@
+# Reviews of Hands-On Machine Learning
+* [errata page](http://www.oreilly.com/catalog/errata.csp?isbn=0636920052289)
+* [the California housing dataset, 100MB of English text from the Wikipedia, ImageNet, and for Reinforcement Learning, Atari's Ms. Pac-Man, and so on.]()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()

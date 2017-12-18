@@ -1,0 +1,148 @@
+http://www.guide2research.com/journals/machine-learning
+Top Journals for Machine Learning & Arti. Intelligence
+	IEEE Transactions on Evolutionary Computation    ISSN:1089-778X , Bimonthly   10 
+	IEEE Transactions on Pattern Analysis and Machine Intelligence    ISSN:0162-8828 , Monthly 13 
+	IEEE Transactions on Fuzzy Systems    ISSN:1063-6706 , Bimonthly 23 
+	IEEE Computational Intelligence Magazine    ISSN:1556-603X , Quarterly 24 
+	International Journal of Neural Systems    ISSN:0129-0657 , Bimonthly 26 
+	IEEE Transactions on Neural Networks and Learning Systems    ISSN:2162-237X , Monthly 28 
+	Information Fusion    ISSN:1566-2535 , Quarterly 29 
+	Automatica    ISSN:0005-1098 , Monthly 32 
+	Neural Networks    ISSN:0893-6080 , Monthly 39 
+	Journal of Machine Learning Research    ISSN:1532-4435 , Bimonthly 43 
+	Information Sciences    ISSN:0020-0255 , Semimonthly 45 
+	Artificial Intelligence    ISSN:0004-3702 , Monthly 47 
+	Pattern Recognition    ISSN:0031-3203 , Monthly 48 
+	Knowledge-Based Systems    ISSN:0950-7051 , Bimonthly 49 
+	IEEE Vehicular Technology Magazine    ISSN:1556-6072 , Quarterly 53 
+	IEEE Transactions on Automatic Control    ISSN:0018-9286 , Monthly 54 
+	VLDB Journal    ISSN:1066-8888 , Bimonthly 66 
+	Statistical Methods in Medical Research    ISSN:0962-2802 , Bimonthly 68 
+	IEEE Transactions on Medical Imaging    ISSN:0278-0062 , Monthly 70 
+	Expert Systems with Applications    ISSN:0957-4174 , Semimonthly 73 
+	IEEE Transactions on Control Systems Technology    ISSN:1063-6536 , Bimonthly 75 
+	Evolutionary Computation    ISSN:1063-6560 , Quarterly 79 
+	IEEE Transactions on Intelligent Transportation Systems    ISSN:1524-9050 , Quarterly 83 
+	IEEE Transactions on Circuits and Systems for Video Technology    ISSN:1051-8215 , Monthly 93 
+	Cognitive Computation    ISSN:1866-9956 , Quarterly 94 
+	IEEE Transactions on Knowledge and Data Engineering    ISSN:1041-4347 , Monthly 101 
+	Neurocomputing    ISSN:0925-2312 , Semimonthly 113 
+	Neuroinformatics    ISSN:1539-2791 , Quarterly 114 
+	ACM Transactions on Intelligent Systems and Technology    ISSN:2157-6904 , Quarterly 115 
+	Data Mining and Knowledge Discovery    ISSN:1384-5810 , Bimonthly 116 
+	IEEE Transactions on Affective Computing    ISSN:1949-3045 , Quarterly 119 
+	Swarm Intelligence    ISSN:1935-3812 , Quarterly 124 
+	Journal of Intelligent Manufacturing    ISSN:0956-5515 , Bimonthly 136 
+	International Journal of Intelligent Systems    ISSN:0884-8173 , Monthly 141 
+	Engineering Applications of Artificial Intelligence    ISSN:0952-1976 , Bimonthly 148 
+	International Journal of Approximate Reasoning    ISSN:0888-613X , Bimonthly 160 
+	Fuzzy Sets and Systems    ISSN:0165-0114 , Semimonthly 165 
+	IEEE Transactions on Information Theory    ISSN:0018-9448 , Monthly 167 
+	Artificial Intelligence Review    ISSN:0269-2821 , Bimonthly 187 
+	Neural Computing and Applications    ISSN:0941-0643 , Bimonthly 193 
+	IEEE Transactions on Audio, Speech and Language Processing    ISSN:1558-7916 , Monthly 205 
+	Information Processing and Management    ISSN:0306-4573 , Bimonthly 209 
+	IEEE Intelligent Systems    ISSN:1541-1672 , Bimonthly 226 
+	Chemometrics and Intelligent Laboratory Systems    ISSN:0169-7439 , Monthly 229 
+	Journal of Artificial Intelligence Research    ISSN:1076-9757 , Irregular 230 
+	IEEE Transactions on Learning Technologies    ISSN:1939-1382 , Quarterly 241 
+	International Journal of Fuzzy Systems    ISSN:1562-2479 , Quarterly 246 
+	ACM Transactions on Autonomous and Adaptive Systems    ISSN:1556-4665 , Quarterly 248 
+	Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery    ISSN:1942-4787 , Bimonthly 255 
+	Statistics and Computing    ISSN:0960-3174 , Quarterly 259 
+	Artificial Intelligence in Medicine    ISSN:0933-3657 , Monthly 261 
+	Machine Vision and Applications    ISSN:0932-8092 , Bimonthly 262 
+	Knowledge and Information Systems    ISSN:0219-1377 , Monthly 264 
+	Pattern Recognition Letters    ISSN:0167-8655 , Monthly 278 
+	Neural Computation    ISSN:0899-7667 , Monthly 288 
+	Computer Speech and Language    ISSN:0885-2308 , Quarterly 296 
+	Journal of the ACM    ISSN:0004-5411 , Bimonthly 297 
+	Machine Learning    ISSN:0885-6125 , Monthly 300 
+	Journal of Heuristics    ISSN:1381-1231 , Bimonthly 316 
+	Data and Knowledge Engineering    ISSN:0169-023X , Bimonthly 319 
+	Computational Statistics and Data Analysis    ISSN:0167-9473 , Monthly 322 
+	Fuzzy Optimization and Decision Making    ISSN:1568-4539 , Quarterly 328 
+	International Journal of Information Technology and Decision Making    ISSN:0219-6220 , Bimonthly 337 
+	BMC Medical Informatics and Decision Making    ISSN:1472-6947 , Irregular 338 
+	IEEE Transactions on Autonomous Mental Development    ISSN:1943-0604 , Quarterly 344 
+	Neural Processing Letters    ISSN:1370-4621 , Bimonthly 350 
+	Autonomous Agents and Multi-Agent Systems    ISSN:1387-2532 , Bimonthly 366 
+	Robotica    ISSN:0263-5747 , Bimonthly 371 
+	Multimedia Tools and Applications    ISSN:1380-7501 , Monthly 380 
+	Genetic Programming and Evolvable Machines    ISSN:1389-2576 , Quarterly 381 
+	Journal of Intelligent and Robotic Systems: Theory and Applications    ISSN:0921-0296 , Monthly 382 
+	Knowledge Engineering Review    ISSN:0269-8889 , Bimonthly 404
+	Behaviour and Information Technology    ISSN:0144-929X , Monthly 405
+	Journal of Experimental and Theoretical Artificial Intelligence    ISSN:0952-813X , Quarterly 421
+	Pattern Analysis and Applications    ISSN:1433-7541 , Quarterly 423
+	IETE Technical Review    ISSN:0256-4602 , Bimonthly 426
+	Artificial Life    ISSN:1064-5462 , Quarterly 433
+	Journal of Intelligent Information Systems    ISSN:0925-9902 , Bimonthly 438
+	Journal of Intelligent and Fuzzy Systems    ISSN:1064-1246 , Bimonthly 440
+	ACM Transactions on Applied Perception    ISSN:1544-3558 , Quarterly 443
+	Journal of Combinatorial Optimization    ISSN:1382-6905 , Bimonthly 455
+	Cognitive Systems Research    ISSN:1389-0417 , Quarterly 456
+	Expert Systems    ISSN:0266-4720 , Bimonthly 467
+	International Journal of Imaging Systems and Technology    ISSN:0899-9457 , Quarterly 468
+	Image Analysis and Stereology    ISSN:1580-3139 , Tri-annual 473
+	ETRI Journal    ISSN:1225-6463 , Bimonthly 474
+	IEEE Transactions on Computational Intelligence and AI in Games    ISSN:1943-068X , Quarterly 486
+	Natural Language Engineering    ISSN:1351-3249 , Quarterly 504
+	Optimization Methods and Software    ISSN:1055-6788 , Bimonthly 506
+	Adaptive Behavior    ISSN:1059-7123 , Bimonthly 515
+	International Journal of Pattern Recognition and Artificial Intelligence    ISSN:0218-0014 , Bimonthly 517
+	Computational Intelligence    ISSN:0824-7935 , Quarterly 528
+	International Journal on Document Analysis and Recognition    ISSN:1433-2833 , Quarterly 535
+	SIGMOD Record    ISSN:0163-5808 , Quarterly 537
+	Connection Science    ISSN:0954-0091 , Quarterly 546
+	AI Magazine    ISSN:0738-4602 , Quarterly 548
+	Journal of Ambient Intelligence and Smart Environments    ISSN:1876-1364 , Quarterly 549
+	Annals of Mathematics and Artificial Intelligence    ISSN:1012-2443 , Bimonthly 550
+	Artificial Intelligence for Engineering Design, Analysis and Manufacturing: AIEDAM    ISSN:0890-0604 , Quarterly 556
+	International Journal on Artificial Intelligence Tools    ISSN:0218-2130 , Bimonthly 558
+	Intelligent Data Analysis    ISSN:1088-467X , Bimonthly 568
+	Journal of Electronic Imaging    ISSN:1017-9909 , Quarterly 570
+	Information Processing Letters    ISSN:0020-0190 , Monthly 579
+	International Journal of Data Warehousing and Mining    ISSN:1548-3924 , Quarterly 600
+	AI Communications    ISSN:0921-7126 , Quarterly 601
+	Applied Artificial Intelligence    ISSN:0883-9514 , Monthly 605
+	Intelligent Automation and Soft Computing    ISSN:1079-8587 , Bimonthly 607
+	IEEE Latin America Transactions    ISSN:1548-0992 , Quarterly 622
+	Network: Computation in Neural Systems    ISSN:0954-898X , Quarterly 630
+	Minds and Machines    ISSN:0924-6495 , Quarterly 650
+	Neural Network World    ISSN:1210-0552 , Bimonthly
+
+
+
+All Top Conferences
+	Image Processing & Computer Vision
+	Machine Learning & Arti. Intelligence
+	Graphics and Computer-Aided Design
+	Computer Networks and Communications
+	Hardware, Robotics & Electronics
+	Human Computer Interaction
+	Software Engineering & Programming
+	Computational Theory and Mathematics
+	Signal Processing
+	Databases & Information Systems
+	Web, Mobile & Multimedia Technologies
+	General Computer Science
+	Biomedical & Medical Engineering
+	Computer Security and Cryptography
+	Computational Linguistics & Speech
+
+
+All Computer Science & Electronics
+	Image Processing & Computer Vision
+	Machine Learning & Arti. Intelligence
+	Graphics and Computer-Aided Design
+	Computer Networks and Communications
+	Hardware, Robotics & Electronics
+	Human Computer Interaction
+	Software Engineering & Programming
+	Computational Theory and Mathematics
+	Signal Processing
+	Information Systems
+	Web, Mobile & Multimedia Technologies
+	General Computer Science
+	Biomedical & Medical Engineering

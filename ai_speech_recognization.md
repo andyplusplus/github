@@ -1,0 +1,1 @@
+# [Speech and Language Processing (3rd ed. draft) Official Site](https://web.stanford.edu/~jurafsky/slp3/)

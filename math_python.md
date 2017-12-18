@@ -3,15 +3,11 @@
 * [23k 	scikit-learn](https://github.com/scikit-learn/scikit-learn):scikit-learn: machine learning in Python
 * [22k 	Keras](https://github.com/fchollet/keras): Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.
 * [18k 	TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples): TensorFlow Tutorial and Examples for Beginners with Latest APIs
-* [14k 	book: Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/search?o=desc&p=3&q=python&s=stars&type=Repositories&utf8=%E2%9C%93)
 * [13k 	python-patterns](https://github.com/faif/python-patterns): A collection of design patterns/idioms in Python
 * [12k 	incubator-mxnet](https://github.com/apache/incubator-mxnet)
 * [12k 	pandas](https://github.com/pandas-dev/pandas)
 * [11k 	Data science Python notebook](https://github.com/donnemartin/data-science-ipython-notebooks): Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data
 * [9.1k pytorch](https://github.com/pytorch/pytorch)
-* [8.5k book: PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-* [8.5k book: python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
-* [8.5k book: dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning): Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
 * [8.4k face_recognition](https://github.com/ageitgey/face_recognition): The world's simplest facial recognition api for Python and the command line
 * [8.4k ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): 
 * [7.6k Theano](https://github.com/Theano/Theano): stop development
@@ -23,8 +19,6 @@
 * [4.6k ChatterBot](https://github.com/gunthercox/ChatterBot): ChatterBot is a machine learning, conversational dialog engine for creating chat bots
 * [4.5k NeuralTalk](https://github.com/karpathy/neuraltalk): NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
 * [4.3k math: sympy](https://github.com/sympy/sympy): A computer algebra system written in pure Python
-* [4.1k book: pydata-book](https://github.com/wesm/pydata-book): Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
-* [3.9k book: handson-ml](https://github.com/ageron/handson-ml): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 * [3.6k TensorFlow-World](https://github.com/astorfi/TensorFlow-World): Simple and ready-to-use tutorials for TensorFlow
 * [3.2k dlib](https://github.com/davisking/dlib): A toolkit for making real world machine learning and data analysis applications in C++
 * [3.2k py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn): Faster R-CNN (Python implementation) -- see https://github.com/ShaoqingRen/faster_rcnn for the official MATLAB version
@@ -33,6 +27,14 @@
 * []()
 * [2k numpy-100](https://github.com/rougier/numpy-100): 100 numpy exercises
 
+# Books
+* [14k 	book: Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/search?o=desc&p=3&q=python&s=stars&type=Repositories&utf8=%E2%9C%93)
+* [8.5k vvvv: PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [8.5k book: python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book), 
+	* [amazon 20170920](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=sr_1_1?ie=UTF8&qid=1510733899&sr=8-1&keywords=python-machine-learning-book)
+* [8.5k book: dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning): Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+* [4.1k book: pydata-book](https://github.com/wesm/pydata-book): Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+* [3.9k book: handson-ml](https://github.com/ageron/handson-ml): A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 
 # Categories
 * [Topic: Machine Learning](https://github.com/topics/machine-learning?o=desc&s=stars)
