@@ -7,6 +7,7 @@
 * Christopher Bishop's Pattern Recognition and Machine Learning may be in your future, or Trevor Hastie Elements of Statistical Learning. Find a copy and tackle some easy bits, the appendix etc. It's worth getting used to the fact that they are dense, but also that you don't need to know it all. Most ML courses cover 1/3 of Bishop.
 
 # Math Courses
+* [The Best Statistics & Probability Courses for Data Science — Class Central Career Guides](https://www.class-central.com/report/best-statistics-probability-courses-data-science/)
 * [If you want to learn Data Science, take a few of these statistics classes](https://medium.freecodecamp.org/if-you-want-to-learn-data-science-take-a-few-of-these-statistics-classes-9bbabab098b9)
 * [Probability and Statistics](https://www.coursera.org/browse/data-science/probability-and-statistics?languages=en)
 

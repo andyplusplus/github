@@ -1,3 +1,6 @@
+# TODO
+* Adversarial Network
+* 
 # Courses
 * Get all info in Computer Vision
 	* [Neural Network Playground](http://playground.tensorflow.org)
